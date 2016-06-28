@@ -1,1 +1,0 @@
-protein_translation.rb
