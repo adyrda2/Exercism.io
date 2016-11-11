@@ -17,7 +17,7 @@ class Hamming
   end 
 end
 
-#Refactored solution: 
+#solution 2
 class Hamming
   VERSION = 2
   def self.compute(string_one, string_two)
